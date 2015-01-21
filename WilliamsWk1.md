@@ -15,4 +15,13 @@ project there could be multiple reasons to know what has been edited in a file.
 
 5. Because they explain the constituents of the rest of the file.
 
-6. Monday 
+6.  |Days of the week   | # hours slept  | # hours in class  |
+7.  |-------------------|----------------|-------------------|
+    | Monday            | 7              | 3                 |
+    | Tuesday           | 7              | 3                 |
+    | Wednesday         | 7              | 3                 |
+    | Thursday          | 7              | 5                 |
+    | Friday            | 7              | 3                 |
+    | Saturday          | 7              | 0                 |
+    | Sunday            | 7              | 0                 |
+
